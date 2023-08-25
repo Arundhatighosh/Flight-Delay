@@ -1,1 +1,3 @@
-# Flight-Delay
+# Flight delay analysis
+
+Flight delays in the airline industry can be caused by various factors such as staffing issues, air system delays, air traffic control, aircraft checks, security concerns, aircraft management, weather, and more. The delay is defined as the duration of time by which a flight is postponed or runs late, which can result in cascading issues such as missed connecting flights. Using Tableau Prep and Tableau, we cleaned the raw data file and visually analysed and interpreted the data to identify the factors contributing to flight delays and determine the peak season when delays occur. Based on our observations, we hope to provide a DSS that will help users to make an informed decision about the right time to board a flight and the delays to be concerned about.
